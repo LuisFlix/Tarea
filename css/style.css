@@ -1,0 +1,118 @@
+#principal
+{
+    width: 1200px;
+    height: 1000px;
+    background-color: aquamarine;
+    margin: 25px;
+}
+
+#cara
+{
+    width: 250px;
+    height: 250px;
+    background-color: pink;
+    border-radius: 200px;
+    display: inline-block;
+    position: relative;
+    left: 350px;
+    margin: 160px;
+}
+#ojo1
+{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    margin: 25px;
+
+}
+#ojo2
+{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    left: 30px;
+    margin: 25px;
+
+}
+#uno
+{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    left: -10px;
+    margin: 25px;
+
+}
+#dos
+{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 100px;
+    display: inline-block;
+    position: relative;
+    left: -5px;
+    margin: 25px;
+
+}
+
+#nariz
+{
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    border-radius: 100px;
+    
+    position: relative;
+    left: 95px;
+    margin: -20px;
+
+}
+#bigote
+{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 100px;
+
+    position: relative;
+    left: 60px;
+    margin: -10px;
+
+}
+
+#bigote1
+{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 100px;
+    position: relative;
+    left: 175px;
+    margin: -80px;
+
+}
+
+#boca
+{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border-radius: 100px;
+    position: relative;
+    left: 55px;
+    margin: 30px;
+
+}
+
+
